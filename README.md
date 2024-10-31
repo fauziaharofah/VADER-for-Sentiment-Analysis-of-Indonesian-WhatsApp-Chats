@@ -1,1 +1,1 @@
-# VADER-for-Sentiment-Analysis-of-Indonesian-WhatsApp-Chats
+This project addressed a gap in sentiment analysis by focusing on Indonesian WhatsApp chats, using text processing techniques such as tokenization and stemming. Additionally, translation to English was employed to overcome limitations in tools like VADER. The method improved sentiment analysis accuracy, though challenges in detecting negative sentiment remained. 
